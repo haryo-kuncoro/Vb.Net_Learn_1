@@ -1,4 +1,4 @@
-# Vb.Net_Learn_2
+# Vb.Net_Learn_1
 
 Saya membagikan ini untuk sama-sama belajar sambil share. <br>
 disini saya hanya membagikan potongan code. Silahkan dicopy dan digunakan sesuai keperluan
